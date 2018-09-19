@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>cn.edu.lingnan.controller.TextWorkspaceLeftController</OriginalElement>
+  <nodes>
+    <node x="5837.875" y="692.0">cn.edu.lingnan.service.CategoryService</node>
+    <node x="13.0" y="1294.0">cn.edu.lingnan.service.ThemeService</node>
+    <node x="613.598232323232" y="404.0">cn.edu.lingnan.sdk.algorithms.ahoCorasick.AhoCorasick</node>
+    <node x="3573.473232323232" y="535.0">cn.edu.lingnan.controller.TextWorkspaceLeftController</node>
+    <node x="1702.875" y="1107.0">cn.edu.lingnan.command.AbstractCommand</node>
+    <node x="5176.875" y="692.0">cn.edu.lingnan.sdk.document.FileType</node>
+    <node x="1607.875" y="1218.0">cn.edu.lingnan.command.ShutdownCommand</node>
+    <node x="585.0" y="1294.0">cn.edu.lingnan.sdk.algorithms.classifier.Classifier</node>
+    <node x="224.9999999999999" y="854.0">main.java.goxr3plus.javastreamplayer.stream.StreamPlayerListener</node>
+    <node x="2677.473232323232" y="535.0">cn.edu.lingnan.sdk.advice.ApplicationEvent</node>
+    <node x="2550.473232323232" y="535.0">cn.edu.lingnan.sdk.enumeration.ChartType</node>
+    <node x="56.5" y="535.0">cn.edu.lingnan.utils.MyCriteria</node>
+    <node x="3123.0" y="1294.0">javafx.fxml.FXMLLoader.ControllerAccessor</node>
+    <node x="4157.375" y="874.0">cn.edu.lingnan.dao.impl.CharacterDaoImpl</node>
+    <node x="913.0" y="1294.0">javafx.application.Application</node>
+    <node x="1913.473232323232" y="535.0">cn.edu.lingnan.pojo.Theme</node>
+    <node x="1747.25" y="773.0">java.util.concurrent.Future</node>
+    <node x="4388.375" y="773.0">cn.edu.lingnan.sdk.advice.AbstractMediator</node>
+    <node x="311.0" y="1451.0">cn.edu.lingnan.sdk.advice.Observer</node>
+    <node x="736.2836580086587" y="535.0">cn.edu.lingnan.sdk.overlay.CustomList</node>
+    <node x="4677.473232323232" y="535.0">cn.edu.lingnan.controller.ViewWorkspaceFourController</node>
+    <node x="52.5" y="404.0">org.hibernate.internal.CriteriaImpl</node>
+    <node x="5621.875" y="692.0">cn.edu.lingnan.service.CharacterService</node>
+    <node x="4099.0" y="1294.0">cn.edu.lingnan.sdk.advice.Mediator.MediatorHolder</node>
+    <node x="5608.875" y="773.0">cn.edu.lingnan.service.impl.CharacterServiceImpl</node>
+    <node x="1800.473232323232" y="404.0">javax.persistence.Entity</node>
+    <node x="212.0" y="1294.0">cn.edu.lingnan.service.VocabService</node>
+    <node x="2841.473232323232" y="535.0">cn.edu.lingnan.sdk.Container.PhaseType</node>
+    <node x="1334.2907467532468" y="404.0">java.io.Externalizable</node>
+    <node x="549.3749999999999" y="1107.0">javafx.concurrent.ScheduledService</node>
+    <node x="5886.0" y="1294.0">cn.edu.lingnan.sdk.CGLibProxy.ProxyFactory</node>
+    <node x="6250.473232323232" y="535.0">cn.edu.lingnan.controller.EventController</node>
+    <node x="2929.875" y="1016.0">cn.edu.lingnan.sdk.CGLibProxy.AOP</node>
+    <node x="1262.8744252873562" y="935.0">javafx.event.EventTarget</node>
+    <node x="1017.0" y="1451.0">cn.edu.lingnan.utils.IOUtils</node>
+    <node x="1199.7232323232322" y="243.0">java.io.Serializable</node>
+    <node x="2449.0" y="1294.0">cn.edu.lingnan.utils.HibernateSessionFactory</node>
+    <node x="572.0" y="1375.0">cn.edu.lingnan.sdk.algorithms.classifier.ClassifierImpl</node>
+    <node x="3046.875" y="935.0">cn.edu.lingnan.sdk.CGLibProxy.ConcreteFilter</node>
+    <node x="5715.0" y="1294.0">cn.edu.lingnan.sdk.algorithms.wordLearning.WordProcess</node>
+    <node x="5542.0" y="1294.0">cn.edu.lingnan.sdk.service.ResultListener</node>
+    <node x="5193.0" y="1294.0">cn.edu.lingnan.sdk.ReflectionUtils</node>
+    <node x="4624.875" y="773.0">org.hibernate.dialect.Dialect</node>
+    <node x="3424.473232323232" y="535.0">cn.edu.lingnan.controller.NavController</node>
+    <node x="1786.473232323232" y="535.0">cn.edu.lingnan.pojo.VocabLog</node>
+    <node x="3232.473232323232" y="535.0">cn.edu.lingnan.controller.WorkspaceController</node>
+    <node x="2020.473232323232" y="535.0">cn.edu.lingnan.pojo.Character</node>
+    <node x="5368.0" y="1294.0">cn.edu.lingnan.sdk.algorithms.ahoCorasick.MatchListener</node>
+    <node x="746.0" y="1451.0">cn.edu.lingnan.pojo.FrqTree</node>
+    <node x="541.7499999999999" y="935.0">javafx.concurrent.Worker</node>
+    <node x="2125.875" y="1218.0">cn.edu.lingnan.command.ViewWorkspaceCharacterCommand</node>
+    <node x="36.5" y="243.0">org.hibernate.Criteria</node>
+    <node x="6217.0" y="1294.0">cn.edu.lingnan.pojo.PsychoTree</node>
+    <node x="1910.0" y="1294.0">javafx.fxml.FXMLLoader.ObservableListChangeAdapter</node>
+    <node x="1792.875" y="1218.0">cn.edu.lingnan.command.FillPhaseCommand</node>
+    <node x="1790.25" y="935.0">java.util.concurrent.FutureTask</node>
+    <node x="498.7499999999999" y="773.0">java.util.concurrent.Callable</node>
+    <node x="159.0" y="1451.0">java.util.concurrent.FutureTask.WaitNode</node>
+    <node x="1969.875" y="1218.0">cn.edu.lingnan.command.RootCommand</node>
+    <node x="459.95000000000005" y="404.0">java.util.ArrayList</node>
+    <node x="701.5538419913421" y="243.0">java.util.RandomAccess</node>
+    <node x="5592.473232323232" y="535.0">cn.edu.lingnan.controller.TextWorkspaceController</node>
+    <node x="1360.723232323232" y="535.0">cn.edu.lingnan.utils.Config</node>
+    <node x="1036.723232323232" y="535.0">cn.edu.lingnan.sdk.algorithms.classifier.BayesModelImpl</node>
+    <node x="4841.0" y="1294.0">cn.edu.lingnan.sdk.algorithms.wordLearning.WordLearning</node>
+    <node x="5824.875" y="773.0">cn.edu.lingnan.service.impl.CategoryServiceImpl</node>
+    <node x="6053.0" y="1294.0">cn.edu.lingnan.sdk.CGLibProxy.InvokeProxy</node>
+    <node x="6056.875" y="692.0">javafx.fxml.FXMLLoader</node>
+    <node x="2685.0" y="1294.0">javafx.fxml.FXMLLoader.PropertyChangeAdapter</node>
+    <node x="1189.723232323232" y="616.0">cn.edu.lingnan.sdk.Container.PhaseContainerImpl</node>
+    <node x="396.0" y="1375.0">cn.edu.lingnan.sdk.algorithms.classifier.UglyTokenizer</node>
+    <node x="4922.473232323232" y="535.0">cn.edu.lingnan.controller.ToolBarController</node>
+    <node x="2919.0" y="1294.0">java.util.ArrayList.ArrayListSpliterator</node>
+    <node x="47.0" y="773.0">java.util.function.IntFunction</node>
+    <node x="4855.625" y="692.0">cn.edu.lingnan.view.AbstractView</node>
+    <node x="458.0" y="1451.0">cn.edu.lingnan.utils.DateUtils</node>
+    <node x="931.0" y="1375.0">cn.edu.lingnan.Main</node>
+    <node x="3194.875" y="935.0">cn.edu.lingnan.inteceptor.OpenSessionInViewFilter</node>
+    <node x="5340.473232323232" y="535.0">cn.edu.lingnan.controller.ViewWorkspaceThreeController</node>
+    <node x="1049.723232323232" y="404.0">cn.edu.lingnan.sdk.algorithms.classifier.BayesModel</node>
+    <node x="1358.0" y="1294.0">javafx.fxml.FXMLLoader.ObservableMapChangeAdapter</node>
+    <node x="2265.6285714285714" y="243.0">javax.xml.bind.annotation.XmlRootElement</node>
+    <node x="1401.0" y="1451.0">cn.edu.lingnan.utils.R</node>
+    <node x="4657.0" y="1294.0">cn.edu.lingnan.utils.SerializableUtils</node>
+    <node x="3810.473232323232" y="535.0">cn.edu.lingnan.controller.AudioPlayerController</node>
+    <node x="3723.0" y="1294.0">javafx.concurrent.Task.ProgressUpdate</node>
+    <node x="2180.0" y="1294.0">javafx.fxml.FXMLLoader.ObservableSetChangeAdapter</node>
+    <node x="4208.875" y="783.0">cn.edu.lingnan.dao.CharacterDao</node>
+    <node x="944.8749999999999" y="1218.0">cn.edu.lingnan.command.InitCommand</node>
+    <node x="756.0" y="1294.0">cn.edu.lingnan.sdk.algorithms.wordLearning.CharCalc</node>
+    <node x="754.598232323232" y="404.0">org.hibernate.internal.CriteriaImpl.OrderEntry</node>
+    <node x="554.9999999999999" y="854.0">main.java.goxr3plus.javastreamplayer.stream.StreamPlayer</node>
+    <node x="2636.723232323232" y="243.0">java.lang.Comparable</node>
+    <node x="4924.875" y="773.0">cn.edu.lingnan.view.WindowView</node>
+    <node x="4381.875" y="692.0">cn.edu.lingnan.sdk.advice.AbstractObservable</node>
+    <node x="4736.973232323232" y="404.0">cn.edu.lingnan.sdk.controller.Controller</node>
+    <node x="6037.875" y="773.0">cn.edu.lingnan.sdk.overlay.CustomXMLLoader</node>
+    <node x="1071.0" y="1294.0">cn.edu.lingnan.command.ViewWorkspaceOutlineCommand</node>
+    <node x="1649.473232323232" y="404.0">cn.edu.lingnan.pojo.CatchingWord</node>
+    <node x="409.0" y="1294.0">cn.edu.lingnan.sdk.algorithms.classifier.Tokenizer</node>
+    <node x="3797.39375" y="874.0">cn.edu.lingnan.dao.impl.VocabLogDaoImpl</node>
+    <node x="4286.0" y="1294.0">cn.edu.lingnan.utils.PreferencesUtils</node>
+    <node x="1149.0" y="1451.0">cn.edu.lingnan.utils.R.Owner</node>
+    <node x="4813.973232323232" y="243.0">javafx.fxml.Initializable</node>
+    <node x="5808.473232323232" y="535.0">cn.edu.lingnan.controller.ViewWorkspaceEmotionController</node>
+    <node x="5017.0" y="1294.0">cn.edu.lingnan.view.FileChooserView.ExtensionFilter</node>
+    <node x="3741.875" y="783.0">cn.edu.lingnan.dao.impl.BaseDaoImpl</node>
+    <node x="199.0" y="1375.0">cn.edu.lingnan.service.impl.VocabServiceImpl</node>
+    <node x="260.25" y="243.0">java.util.AbstractList</node>
+    <node x="2263.473232323232" y="535.0">cn.edu.lingnan.sdk.enumeration.WordType</node>
+    <node x="5389.875" y="773.0">cn.edu.lingnan.service.impl.VocabLogServiceImpl</node>
+    <node x="3326.0" y="1294.0">javafx.fxml.FXMLLoader.ScriptEventHandler</node>
+    <node x="1502.473232323232" y="404.0">org.hibernate.internal.CriteriaImpl.CriterionEntry</node>
+    <node x="1851.25" y="773.0">java.lang.Runnable</node>
+    <node x="0.0" y="1375.0">cn.edu.lingnan.service.impl.ThemeServiceImpl</node>
+    <node x="1090.875" y="1218.0">cn.edu.lingnan.command.ViewWorkspaceEmotionCommand</node>
+    <node x="4049.125" y="783.0">cn.edu.lingnan.dao.VocabDao</node>
+    <node x="270.0000000000002" y="162.0">java.util.AbstractCollection</node>
+    <node x="4002.375" y="874.0">cn.edu.lingnan.dao.impl.VocabDaoImpl</node>
+    <node x="1743.375" y="1026.0">javafx.concurrent.Task</node>
+    <node x="4606.375" y="854.0">cn.edu.lingnan.utils.SQLiteDialect</node>
+    <node x="2628.3291666666673" y="404.0">java.lang.Enum</node>
+    <node x="4589.875" y="692.0">org.hibernate.exception.spi.ConversionContext</node>
+    <node x="1634.598232323232" y="535.0">cn.edu.lingnan.pojo.Vocab</node>
+    <node x="2273.1285714285714" y="404.0">cn.edu.lingnan.utils.Global</node>
+    <node x="561.8749999999999" y="1218.0">cn.edu.lingnan.sdk.service.HeavyService</node>
+    <node x="3243.125" y="692.0">net.sf.cglib.proxy.Callback</node>
+    <node x="395.2500000000002" y="243.0">java.lang.Cloneable</node>
+    <node x="3212.125" y="773.0">net.sf.cglib.proxy.MethodInterceptor</node>
+    <node x="6075.473232323232" y="535.0">cn.edu.lingnan.controller.FillPhaseController</node>
+    <node x="229.0" y="81.0">java.util.Collection</node>
+    <node x="1280.0" y="1451.0">cn.edu.lingnan.utils.Boot</node>
+    <node x="404.7499999999999" y="935.0">cn.edu.lingnan.sdk.overlay.AudioPlayer</node>
+    <node x="579.3749999999999" y="1026.0">javafx.concurrent.Service</node>
+    <node x="0.0" y="1451.0">javafx.application.Application.Parameters</node>
+    <node x="0.0" y="162.0">org.hibernate.criterion.CriteriaSpecification</node>
+    <node x="183.0" y="162.0">java.util.List</node>
+    <node x="1359.875" y="1218.0">cn.edu.lingnan.command.TextWorkspaceRightCommand</node>
+    <node x="3199.375" y="854.0">cn.edu.lingnan.sdk.CGLibProxy.FilterAdapter</node>
+    <node x="5094.473232323232" y="535.0">cn.edu.lingnan.controller.TextWorkspaceRightController</node>
+    <node x="1202.723232323232" y="535.0">cn.edu.lingnan.sdk.Container.PhaseContainer</node>
+    <node x="3429.875" y="783.0">cn.edu.lingnan.dao.ThemeDao</node>
+    <node x="2402.875" y="1218.0">cn.edu.lingnan.command.ViewWorkspaceThemeCommand</node>
+    <node x="3829.125" y="692.0">cn.edu.lingnan.dao.BaseDao</node>
+    <node x="4791.875" y="773.0">cn.edu.lingnan.view.DialogView</node>
+    <node x="434.22323232323197" y="616.0">cn.edu.lingnan.sdk.algorithms.ahoCorasick.NoneMachingAhoCorasickImpl</node>
+    <node x="4472.0" y="1294.0">javafx.fxml.FXMLLoader.MethodHandler</node>
+    <node x="2662.875" y="1218.0">cn.edu.lingnan.command.TextWorkspaceCommand</node>
+    <node x="5188.875" y="773.0">cn.edu.lingnan.sdk.document.Xlsx</node>
+    <node x="475.22323232323197" y="535.0">cn.edu.lingnan.sdk.algorithms.ahoCorasick.AhoCorasickImpl</node>
+    <node x="4862.973232323232" y="404.0">cn.edu.lingnan.sdk.CustomComponent.CircleControl</node>
+    <node x="3583.375" y="783.0">cn.edu.lingnan.dao.CategoryDao</node>
+    <node x="1636.0" y="1294.0">javafx.fxml.FXMLLoader.ControllerMethodEventHandler</node>
+    <node x="3529.0" y="1294.0">cn.edu.lingnan.sdk.document.DocumentFactory</node>
+    <node x="235.0" y="0.0">java.lang.Iterable</node>
+    <node x="468.0410919540227" y="692.0">java.lang.FunctionalInterface</node>
+    <node x="1466.723232323232" y="535.0">cn.edu.lingnan.pojo.Category</node>
+    <node x="3048.875" y="854.0">cn.edu.lingnan.sdk.CGLibProxy.AbstractFilter</node>
+    <node x="886.598232323232" y="404.0">cn.edu.lingnan.sdk.plain.IndexRange</node>
+    <node x="2905.875" y="935.0">cn.edu.lingnan.sdk.CGLibProxy.AbstractAOP</node>
+    <node x="603.0" y="1451.0">javafx.fxml.FXMLLoader.Attribute</node>
+    <node x="413.9999999999999" y="854.0">javafx.concurrent.Task.TaskCallable</node>
+    <node x="3135.473232323232" y="535.0">javafx.concurrent.Worker.State</node>
+    <node x="3091.875" y="773.0">cn.edu.lingnan.sdk.CGLibProxy.Filter</node>
+    <node x="2144.473232323232" y="535.0">cn.edu.lingnan.sdk.enumeration.LineType</node>
+    <node x="884.0" y="1451.0">cn.edu.lingnan.pojo.Project</node>
+    <node x="2971.473232323232" y="535.0">cn.edu.lingnan.view.FileChooserView.FileChooserType</node>
+    <node x="4417.473232323232" y="535.0">cn.edu.lingnan.controller.ViewWorkspaceOutlineController</node>
+    <node x="1776.75" y="854.0">java.util.concurrent.RunnableFuture</node>
+    <node x="4263.473232323232" y="535.0">cn.edu.lingnan.controller.RootController</node>
+    <node x="3911.0" y="1294.0">cn.edu.lingnan.view.FileChooserView</node>
+    <node x="4005.473232323232" y="535.0">cn.edu.lingnan.controller.ViewWorkspaceThemeController</node>
+    <node x="2392.473232323232" y="535.0">javafx.fxml.FXMLLoader.SupportedType</node>
+    <node x="5279.875" y="773.0">cn.edu.lingnan.sdk.document.Txt</node>
+    <node x="3613.907638888889" y="874.0">cn.edu.lingnan.dao.impl.CategoryDaoImpl</node>
+    <node x="5091.875" y="773.0">cn.edu.lingnan.sdk.document.Docx</node>
+    <node x="743.0" y="1375.0">cn.edu.lingnan.sdk.algorithms.wordLearning.CharCalcImpl</node>
+    <node x="4412.375" y="854.0">cn.edu.lingnan.sdk.advice.Mediator</node>
+    <node x="3451.125" y="874.0">cn.edu.lingnan.dao.impl.ThemeDaoImpl</node>
+    <node x="0.0" y="854.0">cn.edu.lingnan.sdk.overlay.CustomLineNumberFactory</node>
+    <node x="5402.875" y="692.0">cn.edu.lingnan.service.VocabLogService</node>
+    <node x="3887.875" y="783.0">cn.edu.lingnan.dao.VocabLogDao</node>
+    <node x="705.8749999999999" y="1218.0">cn.edu.lingnan.command.TextWorkspaceLeftCommand</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="cn.edu.lingnan.pojo.Vocab" target="java.io.Externalizable">
+      <point x="-21.25" y="-15.5" />
+      <point x="1655.848232323232" y="495.0" />
+      <point x="1440.9574134199138" y="495.0" />
+      <point x="42.66666666666674" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.CGLibProxy.AOP" target="cn.edu.lingnan.sdk.CGLibProxy.AbstractAOP">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="javafx.concurrent.Service" target="javafx.event.EventTarget">
+      <point x="22.25" y="-15.5" />
+      <point x="646.1249999999999" y="1006.0" />
+      <point x="1292.1244252873562" y="1006.0" />
+      <point x="-29.25" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.pojo.VocabLog" target="javax.persistence.Entity">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="javafx.concurrent.Task.TaskCallable" target="java.util.concurrent.Callable">
+      <point x="0.0" y="-15.5" />
+      <point x="474.4999999999999" y="829.0" />
+      <point x="522.2499999999999" y="829.0" />
+      <point x="-23.5" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.RootController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="4330.473232323232" y="505.0" />
+      <point x="4775.839898989899" y="505.0" />
+      <point x="-14.133333333333212" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.algorithms.classifier.BayesModel" target="java.io.Serializable">
+      <point x="0.0" y="-15.5" />
+      <point x="1109.723232323232" y="384.0" />
+      <point x="1252.6518037518035" y="384.0" />
+      <point x="-4.071428571428669" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.Container.PhaseType" target="java.lang.Enum">
+      <point x="0.0" y="-15.5" />
+      <point x="2896.473232323232" y="505.0" />
+      <point x="2683.3291666666673" y="505.0" />
+      <point x="15.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.utils.MyCriteria" target="org.hibernate.internal.CriteriaImpl">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.algorithms.classifier.ClassifierImpl" target="cn.edu.lingnan.sdk.algorithms.classifier.Classifier">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.command.ShutdownCommand" target="cn.edu.lingnan.command.AbstractCommand">
+      <point x="0.0" y="-15.5" />
+      <point x="1690.375" y="1198.0" />
+      <point x="1773.0749999999998" y="1198.0" />
+      <point x="-7.7999999999999545" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.pojo.Theme" target="javax.persistence.Entity">
+      <point x="0.0" y="-15.5" />
+      <point x="1956.973232323232" y="515.0" />
+      <point x="1855.7732323232322" y="515.0" />
+      <point x="15.800000000000011" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.NavController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="3488.973232323232" y="465.0" />
+      <point x="4747.573232323232" y="465.0" />
+      <point x="-42.399999999999636" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.impl.VocabLogDaoImpl" target="cn.edu.lingnan.dao.VocabLogDao">
+      <point x="39.25" y="-15.5" />
+      <point x="3915.14375" y="854.0" />
+      <point x="3953.375" y="854.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.enumeration.ChartType" target="java.lang.Enum">
+      <point x="0.0" y="-15.5" />
+      <point x="2603.973232323232" y="515.0" />
+      <point x="2663.3291666666673" y="515.0" />
+      <point x="-5.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.EventController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="6318.973232323232" y="455.0" />
+      <point x="4839.439898989898" y="455.0" />
+      <point x="49.46666666666624" y="15.5" />
+    </edge>
+    <edge source="javafx.concurrent.Task" target="java.util.concurrent.FutureTask">
+      <point x="25.0" y="-15.5" />
+      <point x="1805.875" y="1006.0" />
+      <point x="1845.75" y="1006.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="javafx.fxml.FXMLLoader.SupportedType" target="java.lang.Enum">
+      <point x="0.0" y="-15.5" />
+      <point x="2461.473232323232" y="505.0" />
+      <point x="2653.3291666666673" y="505.0" />
+      <point x="-15.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.view.WindowView" target="cn.edu.lingnan.view.AbstractView">
+      <point x="0.0" y="-15.5" />
+      <point x="4985.875" y="748.0" />
+      <point x="4947.875" y="748.0" />
+      <point x="30.75" y="15.5" />
+    </edge>
+    <edge source="java.util.Collection" target="java.lang.Iterable">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.overlay.AudioPlayer" target="main.java.goxr3plus.javastreamplayer.stream.StreamPlayerListener">
+      <point x="-29.25" y="-15.5" />
+      <point x="433.9999999999999" y="910.0" />
+      <point x="309.4999999999999" y="910.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.impl.CategoryDaoImpl" target="cn.edu.lingnan.dao.CategoryDao">
+      <point x="-37.75" y="-15.5" />
+      <point x="3651.657638888889" y="834.0" />
+      <point x="3645.875" y="834.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="org.hibernate.Criteria" target="org.hibernate.criterion.CriteriaSpecification">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.impl.VocabLogDaoImpl" target="cn.edu.lingnan.dao.impl.BaseDaoImpl">
+      <point x="-39.25" y="-15.5" />
+      <point x="3836.64375" y="854.0" />
+      <point x="3804.875" y="854.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.advice.ApplicationEvent" target="java.lang.Enum">
+      <point x="0.0" y="-15.5" />
+      <point x="2749.473232323232" y="515.0" />
+      <point x="2673.3291666666673" y="515.0" />
+      <point x="5.0" y="15.5" />
+    </edge>
+    <edge source="org.hibernate.internal.CriteriaImpl.CriterionEntry" target="java.io.Serializable">
+      <point x="0.0" y="-15.5" />
+      <point x="1565.973232323232" y="364.0" />
+      <point x="1277.080375180375" y="364.0" />
+      <point x="20.35714285714289" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.utils.SQLiteDialect" target="org.hibernate.dialect.Dialect">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.utils.Global" target="javax.xml.bind.annotation.XmlRootElement">
+      <point x="21.5" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.command.TextWorkspaceRightCommand" target="cn.edu.lingnan.command.AbstractCommand">
+      <point x="0.0" y="-15.5" />
+      <point x="1473.875" y="1188.0" />
+      <point x="1757.475" y="1188.0" />
+      <point x="-23.40000000000009" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.Container.PhaseContainerImpl" target="cn.edu.lingnan.sdk.Container.PhaseContainer">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.overlay.CustomXMLLoader" target="javafx.fxml.FXMLLoader">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.command.FillPhaseCommand" target="cn.edu.lingnan.command.AbstractCommand">
+      <point x="0.0" y="-15.5" />
+      <point x="1871.375" y="1198.0" />
+      <point x="1788.6749999999997" y="1198.0" />
+      <point x="7.7999999999999545" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.Main" target="javafx.application.Application">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.algorithms.ahoCorasick.NoneMachingAhoCorasickImpl" target="cn.edu.lingnan.sdk.algorithms.ahoCorasick.AhoCorasickImpl">
+      <point x="2.2737367544323206E-13" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.pojo.CatchingWord" target="java.io.Serializable">
+      <point x="0.0" y="-15.5" />
+      <point x="1714.973232323232" y="354.0" />
+      <point x="1285.2232323232322" y="354.0" />
+      <point x="28.5" y="15.5" />
+    </edge>
+    <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+      <point x="28.75" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.document.Txt" target="cn.edu.lingnan.sdk.document.FileType">
+      <point x="0.0" y="-15.5" />
+      <point x="5312.375" y="748.0" />
+      <point x="5256.041666666667" y="748.0" />
+      <point x="31.66666666666697" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.TextWorkspaceRightController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="5207.473232323232" y="505.0" />
+      <point x="4804.106565656565" y="505.0" />
+      <point x="14.133333333333212" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.view.FileChooserView.FileChooserType" target="java.lang.Enum">
+      <point x="0.0" y="-15.5" />
+      <point x="3043.473232323232" y="495.0" />
+      <point x="2693.3291666666673" y="495.0" />
+      <point x="25.0" y="15.5" />
+    </edge>
+    <edge source="java.io.Externalizable" target="java.io.Serializable">
+      <point x="0.0" y="-15.5" />
+      <point x="1398.2907467532468" y="384.0" />
+      <point x="1260.7946608946606" y="384.0" />
+      <point x="4.0714285714284415" y="15.5" />
+    </edge>
+    <edge source="main.java.goxr3plus.javastreamplayer.stream.StreamPlayer" target="java.util.concurrent.Callable">
+      <point x="0.0" y="-15.5" />
+      <point x="616.9999999999999" y="829.0" />
+      <point x="569.2499999999999" y="829.0" />
+      <point x="23.5" y="15.5" />
+    </edge>
+    <edge source="java.util.ArrayList" target="java.util.List">
+      <point x="-39.200000000000045" y="-15.5" />
+      <point x="469.75" y="314.0" />
+      <point x="199.75" y="314.0" />
+      <point x="-16.75" y="15.5" />
+    </edge>
+    <edge source="java.util.ArrayList" target="java.util.AbstractList">
+      <point x="-19.600000000000023" y="-15.5" />
+      <point x="489.3499999999999" y="304.0" />
+      <point x="317.75" y="304.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.service.impl.CharacterServiceImpl" target="cn.edu.lingnan.service.CharacterService">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.algorithms.ahoCorasick.AhoCorasick" target="java.io.Serializable">
+      <point x="0.0" y="-15.5" />
+      <point x="674.098232323232" y="344.0" />
+      <point x="1220.080375180375" y="344.0" />
+      <point x="-36.64285714285711" y="15.5" />
+    </edge>
+    <edge source="java.util.ArrayList" target="java.lang.Cloneable">
+      <point x="0.0" y="-15.5" />
+      <point x="508.95000000000005" y="294.0" />
+      <point x="448.2500000000002" y="294.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.algorithms.wordLearning.CharCalcImpl" target="cn.edu.lingnan.sdk.algorithms.wordLearning.CharCalc">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.impl.CategoryDaoImpl" target="cn.edu.lingnan.dao.impl.BaseDaoImpl">
+      <point x="37.75" y="-15.5" />
+      <point x="3727.157638888889" y="854.0" />
+      <point x="3779.675" y="854.0" />
+      <point x="-25.199999999999818" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.pojo.Vocab" target="javax.persistence.Entity">
+      <point x="21.25" y="-15.5" />
+      <point x="1698.348232323232" y="515.0" />
+      <point x="1824.173232323232" y="515.0" />
+      <point x="-15.800000000000011" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.impl.CharacterDaoImpl" target="cn.edu.lingnan.dao.CharacterDao">
+      <point x="38.5" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.controller.Controller" target="javafx.fxml.Initializable">
+      <point x="26.5" y="-15.5" />
+      <point x="4816.473232323232" y="384.0" />
+      <point x="4842.223232323232" y="384.0" />
+      <point x="-28.25" y="15.5" />
+    </edge>
+    <edge source="javafx.concurrent.Worker.State" target="java.lang.Enum">
+      <point x="0.0" y="-15.5" />
+      <point x="3173.973232323232" y="485.0" />
+      <point x="2703.3291666666673" y="485.0" />
+      <point x="35.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.CGLibProxy.FilterAdapter" target="cn.edu.lingnan.sdk.CGLibProxy.Filter">
+      <point x="-30.75" y="-15.5" />
+      <point x="3230.125" y="829.0" />
+      <point x="3148.875" y="829.0" />
+      <point x="19.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.inteceptor.OpenSessionInViewFilter" target="cn.edu.lingnan.sdk.CGLibProxy.AbstractFilter">
+      <point x="0.0" y="-15.5" />
+      <point x="3289.875" y="910.0" />
+      <point x="3152.2083333333335" y="910.0" />
+      <point x="41.333333333333485" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.overlay.AudioPlayer" target="main.java.goxr3plus.javastreamplayer.stream.StreamPlayer">
+      <point x="29.25" y="-15.5" />
+      <point x="492.4999999999999" y="910.0" />
+      <point x="616.9999999999999" y="910.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.CategoryDao" target="cn.edu.lingnan.dao.BaseDao">
+      <point x="0.0" y="-15.5" />
+      <point x="3645.875" y="753.0" />
+      <point x="3854.125" y="753.0" />
+      <point x="-25.0" y="15.5" />
+    </edge>
+    <edge source="java.util.function.IntFunction" target="java.lang.FunctionalInterface">
+      <point x="0.0" y="-15.5" />
+      <point x="102.5" y="748.0" />
+      <point x="494.20775862068945" y="748.0" />
+      <point x="-52.33333333333326" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.ToolBarController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="4998.473232323232" y="515.0" />
+      <point x="4797.039898989899" y="515.0" />
+      <point x="7.066666666666606" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.algorithms.classifier.UglyTokenizer" target="cn.edu.lingnan.sdk.algorithms.classifier.Tokenizer">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface">
+      <point x="0.0" y="-15.5" />
+      <point x="1902.25" y="748.0" />
+      <point x="598.874425287356" y="748.0" />
+      <point x="52.33333333333326" y="15.5" />
+    </edge>
+    <edge source="java.util.List" target="java.util.Collection">
+      <point x="0.0" y="-15.5" />
+      <point x="216.5" y="137.0" />
+      <point x="255.25" y="137.0" />
+      <point x="-26.25" y="15.5" />
+    </edge>
+    <edge source="java.util.AbstractList" target="java.util.List">
+      <point x="-28.75" y="-15.5" />
+      <point x="289.0" y="218.0" />
+      <point x="233.25" y="218.0" />
+      <point x="16.75" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.command.TextWorkspaceLeftCommand" target="cn.edu.lingnan.command.AbstractCommand">
+      <point x="0.0" y="-15.5" />
+      <point x="815.3749999999999" y="1158.0" />
+      <point x="1710.6749999999997" y="1158.0" />
+      <point x="-70.20000000000005" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.WorkspaceController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="3318.473232323232" y="455.0" />
+      <point x="4740.506565656566" y="455.0" />
+      <point x="-49.46666666666624" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.enumeration.WordType" target="java.lang.Enum">
+      <point x="0.0" y="-15.5" />
+      <point x="2317.973232323232" y="495.0" />
+      <point x="2643.3291666666673" y="495.0" />
+      <point x="-25.0" y="15.5" />
+    </edge>
+    <edge source="org.hibernate.internal.CriteriaImpl.OrderEntry" target="java.io.Serializable">
+      <point x="0.0" y="-15.5" />
+      <point x="810.598232323232" y="354.0" />
+      <point x="1228.2232323232322" y="354.0" />
+      <point x="-28.5" y="15.5" />
+    </edge>
+    <edge source="net.sf.cglib.proxy.MethodInterceptor" target="net.sf.cglib.proxy.Callback">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.CharacterDao" target="cn.edu.lingnan.dao.BaseDao">
+      <point x="0.0" y="-15.5" />
+      <point x="4272.875" y="743.0" />
+      <point x="3920.7916666666665" y="743.0" />
+      <point x="41.666666666666515" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.service.impl.VocabLogServiceImpl" target="cn.edu.lingnan.service.VocabLogService">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="javafx.concurrent.Service" target="javafx.concurrent.Worker">
+      <point x="-22.25" y="-15.5" />
+      <point x="601.6249999999999" y="1006.0" />
+      <point x="564.7499999999999" y="1006.0" />
+      <point x="-23.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.command.RootCommand" target="cn.edu.lingnan.command.AbstractCommand">
+      <point x="0.0" y="-15.5" />
+      <point x="2037.875" y="1188.0" />
+      <point x="1804.275" y="1188.0" />
+      <point x="23.40000000000009" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.TextWorkspaceController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="5690.473232323232" y="485.0" />
+      <point x="4818.239898989898" y="485.0" />
+      <point x="28.266666666666424" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.advice.Mediator" target="cn.edu.lingnan.sdk.advice.AbstractMediator">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.service.impl.ThemeServiceImpl" target="cn.edu.lingnan.service.ThemeService">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="org.hibernate.dialect.Dialect" target="org.hibernate.exception.spi.ConversionContext">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.VocabLogDao" target="cn.edu.lingnan.dao.BaseDao">
+      <point x="0.0" y="-15.5" />
+      <point x="3953.375" y="763.0" />
+      <point x="3887.4583333333335" y="763.0" />
+      <point x="8.333333333333485" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.command.ViewWorkspaceEmotionCommand" target="cn.edu.lingnan.command.AbstractCommand">
+      <point x="0.0" y="-15.5" />
+      <point x="1215.375" y="1178.0" />
+      <point x="1741.875" y="1178.0" />
+      <point x="-39.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.VocabDao" target="cn.edu.lingnan.dao.BaseDao">
+      <point x="0.0" y="-15.5" />
+      <point x="4103.625" y="753.0" />
+      <point x="3904.125" y="753.0" />
+      <point x="25.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.command.ViewWorkspaceCharacterCommand" target="cn.edu.lingnan.command.AbstractCommand">
+      <point x="0.0" y="-15.5" />
+      <point x="2254.375" y="1178.0" />
+      <point x="1819.875" y="1178.0" />
+      <point x="39.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.ViewWorkspaceEmotionController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="5931.973232323232" y="475.0" />
+      <point x="4825.306565656565" y="475.0" />
+      <point x="35.33333333333303" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.CustomComponent.CircleControl" target="javafx.fxml.Initializable">
+      <point x="0.0" y="-15.5" />
+      <point x="4924.473232323232" y="384.0" />
+      <point x="4898.723232323232" y="384.0" />
+      <point x="28.25" y="15.5" />
+    </edge>
+    <edge source="javafx.concurrent.Task" target="javafx.event.EventTarget">
+      <point x="0.0" y="-15.5" />
+      <point x="1780.875" y="986.0" />
+      <point x="1350.6244252873562" y="986.0" />
+      <point x="29.25" y="15.5" />
+    </edge>
+    <edge source="java.util.ArrayList" target="java.io.Serializable">
+      <point x="39.19999999999999" y="-15.5" />
+      <point x="548.1500000000001" y="334.0" />
+      <point x="1211.937518037518" y="334.0" />
+      <point x="-44.78571428571422" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.advice.AbstractMediator" target="cn.edu.lingnan.sdk.advice.AbstractObservable">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.ViewWorkspaceOutlineController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="4537.473232323232" y="515.0" />
+      <point x="4782.906565656565" y="515.0" />
+      <point x="-7.066666666666606" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.overlay.CustomList" target="java.util.ArrayList">
+      <point x="-27.75" y="-15.5" />
+      <point x="764.0336580086587" y="505.0" />
+      <point x="508.95000000000005" y="505.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.ThemeDao" target="cn.edu.lingnan.dao.BaseDao">
+      <point x="0.0" y="-15.5" />
+      <point x="3485.375" y="743.0" />
+      <point x="3837.4583333333335" y="743.0" />
+      <point x="-41.666666666666515" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.impl.BaseDaoImpl" target="cn.edu.lingnan.dao.BaseDao">
+      <point x="0.0" y="-15.5" />
+      <point x="3804.875" y="763.0" />
+      <point x="3870.7916666666665" y="763.0" />
+      <point x="-8.333333333333485" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.document.Xlsx" target="cn.edu.lingnan.sdk.document.FileType">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="javafx.concurrent.Task" target="javafx.concurrent.Worker">
+      <point x="-25.0" y="-15.5" />
+      <point x="1755.875" y="996.0" />
+      <point x="610.7499999999999" y="996.0" />
+      <point x="23.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.impl.VocabDaoImpl" target="cn.edu.lingnan.dao.impl.BaseDaoImpl">
+      <point x="-33.75" y="-15.5" />
+      <point x="4036.125" y="844.0" />
+      <point x="3830.075" y="844.0" />
+      <point x="25.199999999999818" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.impl.VocabDaoImpl" target="cn.edu.lingnan.dao.VocabDao">
+      <point x="33.75" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.ViewWorkspaceThemeController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="4124.473232323232" y="495.0" />
+      <point x="4768.773232323232" y="495.0" />
+      <point x="-21.199999999999818" y="15.5" />
+    </edge>
+    <edge source="java.util.concurrent.RunnableFuture" target="java.util.concurrent.Future">
+      <point x="-34.5" y="-15.5" />
+      <point x="1811.25" y="829.0" />
+      <point x="1789.25" y="829.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.command.AbstractCommand" target="javafx.concurrent.Task">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.pojo.Category" target="javax.persistence.Entity">
+      <point x="25.25" y="-15.5" />
+      <point x="1542.473232323232" y="505.0" />
+      <point x="1808.373232323232" y="505.0" />
+      <point x="-31.599999999999994" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.CGLibProxy.AbstractFilter" target="cn.edu.lingnan.sdk.CGLibProxy.Filter">
+      <point x="0.0" y="-15.5" />
+      <point x="-19.0" y="15.5" />
+    </edge>
+    <edge source="java.util.AbstractCollection" target="java.util.Collection">
+      <point x="0.0" y="-15.5" />
+      <point x="346.5000000000002" y="137.0" />
+      <point x="307.75" y="137.0" />
+      <point x="26.25" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.service.impl.CategoryServiceImpl" target="cn.edu.lingnan.service.CategoryService">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.Container.PhaseContainer" target="java.io.Externalizable">
+      <point x="0.0" y="-15.5" />
+      <point x="1271.723232323232" y="515.0" />
+      <point x="1355.6240800865803" y="515.0" />
+      <point x="-42.66666666666674" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.command.ViewWorkspaceThemeCommand" target="cn.edu.lingnan.command.AbstractCommand">
+      <point x="0.0" y="-15.5" />
+      <point x="2522.875" y="1168.0" />
+      <point x="1835.475" y="1168.0" />
+      <point x="54.59999999999991" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.command.InitCommand" target="cn.edu.lingnan.command.AbstractCommand">
+      <point x="0.0" y="-15.5" />
+      <point x="1007.8749999999999" y="1168.0" />
+      <point x="1726.275" y="1168.0" />
+      <point x="-54.59999999999991" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.document.Docx" target="cn.edu.lingnan.sdk.document.FileType">
+      <point x="0.0" y="-15.5" />
+      <point x="5130.375" y="748.0" />
+      <point x="5192.708333333333" y="748.0" />
+      <point x="-31.66666666666697" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.AudioPlayerController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="3897.973232323232" y="485.0" />
+      <point x="4761.7065656565655" y="485.0" />
+      <point x="-28.266666666666424" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.utils.Config" target="java.io.Externalizable">
+      <point x="0.0" y="-15.5" />
+      <point x="1403.723232323232" y="515.0" />
+      <point x="1398.2907467532468" y="515.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="java.util.concurrent.Callable" target="java.lang.FunctionalInterface">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.ViewWorkspaceThreeController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="5456.473232323232" y="495.0" />
+      <point x="4811.173232323232" y="495.0" />
+      <point x="21.199999999999818" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.TextWorkspaceLeftController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="3681.973232323232" y="475.0" />
+      <point x="4754.639898989899" y="475.0" />
+      <point x="-35.33333333333303" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.view.DialogView" target="cn.edu.lingnan.view.AbstractView">
+      <point x="0.0" y="-15.5" />
+      <point x="4848.375" y="748.0" />
+      <point x="4886.375" y="748.0" />
+      <point x="-30.75" y="15.5" />
+    </edge>
+    <edge source="java.lang.Enum" target="java.lang.Comparable">
+      <point x="20.0" y="-15.5" />
+      <point x="2688.3291666666673" y="384.0" />
+      <point x="2696.723232323232" y="384.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.pojo.Category" target="java.io.Serializable">
+      <point x="-25.25" y="-15.5" />
+      <point x="1491.973232323232" y="374.0" />
+      <point x="1268.937518037518" y="374.0" />
+      <point x="12.21428571428578" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.service.HeavyService" target="javafx.concurrent.ScheduledService">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.impl.CharacterDaoImpl" target="cn.edu.lingnan.dao.impl.BaseDaoImpl">
+      <point x="-38.5" y="-15.5" />
+      <point x="4195.875" y="834.0" />
+      <point x="3855.275" y="834.0" />
+      <point x="50.40000000000009" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.algorithms.classifier.BayesModelImpl" target="cn.edu.lingnan.sdk.algorithms.classifier.BayesModel">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.plain.IndexRange" target="java.io.Serializable">
+      <point x="0.0" y="-15.5" />
+      <point x="945.098232323232" y="364.0" />
+      <point x="1236.3660894660893" y="364.0" />
+      <point x="-20.35714285714289" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.FillPhaseController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="6152.973232323232" y="465.0" />
+      <point x="4832.373232323232" y="465.0" />
+      <point x="42.399999999999636" y="15.5" />
+    </edge>
+    <edge source="javafx.concurrent.ScheduledService" target="javafx.concurrent.Service">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.algorithms.ahoCorasick.AhoCorasickImpl" target="cn.edu.lingnan.sdk.algorithms.ahoCorasick.AhoCorasick">
+      <point x="0.0" y="-15.5" />
+      <point x="548.723232323232" y="515.0" />
+      <point x="674.098232323232" y="515.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.service.impl.VocabServiceImpl" target="cn.edu.lingnan.service.VocabService">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.enumeration.LineType" target="java.lang.Enum">
+      <point x="0.0" y="-15.5" />
+      <point x="2193.973232323232" y="485.0" />
+      <point x="2633.3291666666673" y="485.0" />
+      <point x="-35.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.controller.ViewWorkspaceFourController" target="cn.edu.lingnan.sdk.controller.Controller">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="org.hibernate.internal.CriteriaImpl" target="org.hibernate.Criteria">
+      <point x="-29.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.CGLibProxy.ConcreteFilter" target="cn.edu.lingnan.sdk.CGLibProxy.AbstractFilter">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.command.TextWorkspaceCommand" target="cn.edu.lingnan.command.AbstractCommand">
+      <point x="0.0" y="-15.5" />
+      <point x="2761.875" y="1158.0" />
+      <point x="1851.0749999999998" y="1158.0" />
+      <point x="70.20000000000005" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.impl.ThemeDaoImpl" target="cn.edu.lingnan.dao.impl.BaseDaoImpl">
+      <point x="34.25" y="-15.5" />
+      <point x="3553.875" y="844.0" />
+      <point x="3754.475" y="844.0" />
+      <point x="-50.40000000000009" y="15.5" />
+    </edge>
+    <edge source="java.util.concurrent.RunnableFuture" target="java.lang.Runnable">
+      <point x="34.5" y="-15.5" />
+      <point x="1880.25" y="829.0" />
+      <point x="1902.25" y="829.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="java.util.ArrayList" target="java.util.RandomAccess">
+      <point x="19.600000000000023" y="-15.5" />
+      <point x="528.5500000000002" y="314.0" />
+      <point x="769.5538419913421" y="314.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="java.lang.Enum" target="java.io.Serializable">
+      <point x="-20.0" y="-15.5" />
+      <point x="2648.3291666666673" y="334.0" />
+      <point x="1301.5089466089464" y="334.0" />
+      <point x="44.78571428571422" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.controller.Controller" target="java.io.Serializable">
+      <point x="-26.5" y="-15.5" />
+      <point x="4763.473232323232" y="324.0" />
+      <point x="1309.6518037518035" y="324.0" />
+      <point x="52.92857142857133" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.overlay.CustomList" target="java.io.Serializable">
+      <point x="27.75" y="-15.5" />
+      <point x="819.5336580086587" y="515.0" />
+      <point x="1014.098232323232" y="515.0" />
+      <point x="1014.098232323232" y="374.0" />
+      <point x="1244.5089466089464" y="374.0" />
+      <point x="-12.21428571428578" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.dao.impl.ThemeDaoImpl" target="cn.edu.lingnan.dao.ThemeDao">
+      <point x="-34.25" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="java.util.concurrent.FutureTask" target="java.util.concurrent.RunnableFuture">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="org.hibernate.internal.CriteriaImpl" target="java.io.Serializable">
+      <point x="29.0" y="-15.5" />
+      <point x="139.5" y="324.0" />
+      <point x="1203.7946608946609" y="324.0" />
+      <point x="-52.92857142857133" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.pojo.Character" target="javax.persistence.Entity">
+      <point x="0.0" y="-15.5" />
+      <point x="2072.473232323232" y="505.0" />
+      <point x="1871.573232323232" y="505.0" />
+      <point x="31.600000000000023" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.CGLibProxy.FilterAdapter" target="net.sf.cglib.proxy.MethodInterceptor">
+      <point x="30.75" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.CGLibProxy.AbstractAOP" target="cn.edu.lingnan.sdk.CGLibProxy.AbstractFilter">
+      <point x="0.0" y="-15.5" />
+      <point x="2966.375" y="910.0" />
+      <point x="3069.5416666666665" y="910.0" />
+      <point x="-41.333333333333485" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.utils.Global" target="java.io.Serializable">
+      <point x="-21.5" y="-15.5" />
+      <point x="2294.6285714285714" y="344.0" />
+      <point x="1293.3660894660893" y="344.0" />
+      <point x="36.64285714285711" y="15.5" />
+    </edge>
+    <edge source="cn.edu.lingnan.sdk.overlay.CustomLineNumberFactory" target="java.util.function.IntFunction">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0999999999999992" x="987.814674748837" y="488.6217948717949" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
